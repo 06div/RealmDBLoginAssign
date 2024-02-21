@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365881263079",
+    "project_id": "realmdbloginassign",
+    "storage_bucket": "realmdbloginassign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365881263079:android:d3625f22d2a6ac23367342",
+        "android_client_info": {
+          "package_name": "com.example.realmdbloginassign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB71_QARiQiQp5Dw8ZDCD3rg4JBd5AlL5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
